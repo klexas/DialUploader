@@ -1,0 +1,14 @@
+# Exclude everything by default; only publish what's in "files" in package.json
+# (the "files" field is the primary allow-list; .npmignore is an extra deny-list)
+src/
+tests/
+coverage/
+.github/
+*.config.ts
+*.config.mjs
+tsconfig.json
+eslint.config.mjs
+vitest.config.ts
+.gitignore
+*.log
+*.tsbuildinfo
