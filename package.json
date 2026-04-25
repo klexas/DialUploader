@@ -2,6 +2,7 @@
   "name": "dial-up-loader",
   "version": "1.0.0",
   "description": "A retro dial-up modem loading React component with algorithmically generated handshake sounds via Web Audio API — no audio files required.",
+  "homepage": "https://github.com/klexas/DialUploader#readme",
   "keywords": [
     "react",
     "loading",
@@ -25,6 +26,13 @@
   ],
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klexas/DialUploader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/klexas/DialUploader/issues"
+  },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",

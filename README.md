@@ -1,8 +1,9 @@
 # dial-up-loader
 
-[![npm version](https://img.shields.io/npm/v/dial-up-loader.svg)](https://www.npmjs.com/package/dial-up-loader)
-[![license](https://img.shields.io/npm/l/dial-up-loader.svg)](./LICENSE)
-[![bundle size](https://img.shields.io/bundlephobia/minzip/dial-up-loader)](https://bundlephobia.com/package/dial-up-loader)
+[![npm version](https://img.shields.io/npm/v/dial-up-loader?logo=npm)](https://www.npmjs.com/package/dial-up-loader)
+[![npm downloads](https://img.shields.io/npm/dm/dial-up-loader?logo=npm)](https://www.npmjs.com/package/dial-up-loader)
+[![license](https://img.shields.io/badge/license-MIT-0f766e.svg)](https://github.com/klexas/DialUploader/blob/main/LICENSE)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/dial-up-loader?label=bundle%20size)](https://bundlephobia.com/package/dial-up-loader)
 
 A retro React loader that renders an old-school modem terminal and synthesises dial-up handshake sounds with the Web Audio API.
 
@@ -139,22 +140,6 @@ export function HeadlessDialer() {
   );
 }
 ```
-
-## Publishing
-
-```bash
-npm version patch
-npm publish
-```
-
-Helpful release commands:
-
-```bash
-npm run release:patch
-npm run release:minor
-npm run release:major
-```
-
 ## Contributing
 
 Issues and pull requests are welcome. Please run install, build, lint, and test locally before opening a PR.
