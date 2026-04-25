@@ -4,6 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/dial-up-loader?logo=npm)](https://www.npmjs.com/package/dial-up-loader)
 [![license](https://img.shields.io/badge/license-MIT-0f766e.svg)](https://github.com/klexas/DialUploader/blob/main/LICENSE)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/dial-up-loader?label=bundle%20size)](https://bundlephobia.com/package/dial-up-loader)
+[![Live demo](https://img.shields.io/badge/live%20demo-github%20pages-0f766e)](https://klexas.github.io/DialUploader/)
 
 A retro React loader that renders an old-school modem terminal and synthesises dial-up handshake sounds with the Web Audio API.
 
